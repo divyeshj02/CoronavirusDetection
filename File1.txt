@@ -1,9 +1,13 @@
 Hello World???
 
-Change - for login feature
+Change -> for login feature
 
 acropolis
 
-Change - to fix bug1
+Change -> to fix bug1
 
-Change - change made by another team member from remote repository.
+Change -> to fix bug2
+
+Change -> change made by another team member from remote repository.
+
+
