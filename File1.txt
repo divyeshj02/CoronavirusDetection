@@ -1,7 +1,9 @@
 Hello World!!!
 
-Change - for login feature
+Change -> for login feature
 
 acropolis
 
-change - to fix bug1
+change -> to fix bug1
+
+change -> to fix bug2
